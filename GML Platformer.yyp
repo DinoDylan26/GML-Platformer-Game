@@ -13,6 +13,7 @@
     {"id":{"name":"spr_clouds","path":"sprites/spr_clouds/spr_clouds.yy",},"order":7,},
     {"id":{"name":"spr_walk","path":"sprites/spr_walk/spr_walk.yy",},"order":4,},
     {"id":{"name":"spr_grain","path":"sprites/spr_grain/spr_grain.yy",},"order":8,},
+    {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},"order":2,},
     {"id":{"name":"obj_invisiblewall","path":"objects/obj_invisiblewall/obj_invisiblewall.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
